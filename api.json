@@ -1,0 +1,50 @@
+//此多仓接口管理系统，https://api.starlink.fan/
+//微信小程序搜【软件小哥哥】影视仓接口管理系统【https://api.starlink.fan】
+{
+    "urls": [
+        {
+            "url": "http://47.96.82.41:8/api.json",
+            "name": "资源线路"
+        },
+        {
+            "url": "http://47.96.82.41:5188/svip/svip.json",
+            "name": "网盘线路"
+        }
+        {
+            "url": "http://www.饭太硬.com/tv",
+            "name": "饭太硬"
+        }
+        {
+            "url": "http://tvbox.王二小放牛娃.top",
+            "name": "王小二"
+        }
+        {
+            "url": "http://tv.laohu.cool/tvbox.json",
+            "name": "老虎接口"
+        }
+        {
+            "url": "http://47.96.82.41:3/",
+            "name": "小哥哥"
+        }
+        {
+            "url": "http://tv.nxog.top/",
+            "name": "欧歌"
+        }
+        {
+            "url": "http://ok321.top/tv",
+            "name": "OK接口"
+        }
+        {
+            "url": "http://肥猫.com",
+            "name": "肥猫"
+        }
+        {
+            "url": "http://www.xn--sss604efuw.com/tv",
+            "name": "饭太硬"
+        }
+        {
+            "url": "http://m3.687166.xyz/aaaa.json",
+            "name": "小鱼"
+        }
+    ]
+}
